@@ -1,6 +1,6 @@
 #lang planet neil/sicp
 
-;; Exercise 2.1:
+;; Exercise 2.2:
 ;; 
 ;; Consider the problem of representing line segments in a plane.
 ;; Each segment is represented as a pair of points: a starting point
