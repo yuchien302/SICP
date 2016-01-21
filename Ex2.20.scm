@@ -1,6 +1,7 @@
 #lang planet neil/sicp
 
 ;; Exercise 2.20:
+;; 
 ;; The procedures +, *, and list take arbitrary numbers of arguments.
 ;; One way to define such procedures is to use define with dotted-tail notation.
 ;; In a procedure definition, a parameter list that has a dot before the last
